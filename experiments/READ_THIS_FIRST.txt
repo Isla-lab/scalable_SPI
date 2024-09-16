@@ -1,0 +1,5 @@
+To recombine the files part_aa, part_ab, part_ac, run this command:
+
+cat part_* > part_aa.zip
+
+Then extract the contents
